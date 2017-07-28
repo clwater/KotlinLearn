@@ -6,7 +6,7 @@
 //    return a + b
 //}
 //
-//fun main(args: Array<String>){
+//fun 集合和函数操作符.main(args: Array<String>){
 //    print("sum 3 and 5 is ")
 //    println(sum(3 ,5))
 //}
@@ -14,14 +14,14 @@
 
 
 //fun sum(a:Int , b:Int) = a + b
-//fun main(args: Array<String>){
+//fun 集合和函数操作符.main(args: Array<String>){
 //    println("sum 3 and 5 is ${sum(3 ,5)}")
 //}
 
 //fun printSum(a:Int , b : Int):Unit{
 //    println("sum of $a and $b is ${a + b}")
 //}
-//fun main(args: Array<String>){
+//fun 集合和函数操作符.main(args: Array<String>){
 //    printSum(-1 , 8)
 //}
 

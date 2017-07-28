@@ -2,7 +2,7 @@
  * Created by yszsyf on 2017/5/21.
  */
 
-//fun main(args: Array<String>){
+//fun 集合和函数操作符.main(args: Array<String>){
 //    var a : Int = 1
 //    var b = 2
 //    var c : Int

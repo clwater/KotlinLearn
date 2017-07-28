@@ -1,10 +1,11 @@
-import kotlin.test.assertEquals
-import kotlin.test.assertTrue
+package 集合和函数操作符
 
 //总数操作符
 
 fun main(args: Array<String>){
     val list = listOf(1,2,3,4,5,6)
+    print(" list is " +  list + "\n")
+
     print("list.any { it % 2 == 0 } is " + list.any { it % 2 == 0 } + "\n")
     print("list.any { it > 10 } is " + list.any { it > 10 } + "\n")
     print("list.all { it < 10 } is " + list.all { it < 10 } + "\n")
